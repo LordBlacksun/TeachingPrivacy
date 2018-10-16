@@ -1,1 +1,9 @@
+# basic options
+title: TeachingPrivacy
+author: LordBlacksun
+email: eclipsimamans@protonmail.com
+github_username:LordBlacksun
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-slate
